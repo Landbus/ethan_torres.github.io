@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Landbus/ethan_torres.github.io",
+    "data-repo": "Landbus/landbus.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
