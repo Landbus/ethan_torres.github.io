@@ -453,7 +453,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-subdominant-lyapunov-exponents-predict-training-dynamics",
           title: 'Subdominant Lyapunov Exponents Predict Training Dynamics',
-          description: "Stability of SGD via Lyapunov spectrum and edge-of-stability control.",
+          description: "This particular project assessed the stability of SGD via Lyapunov spectrum and edge-of-stability control. In it, I proved a novel result from a toy problem that I hope to one day extend into an actual publication using the toolbox of Multiplicative Ergodic Theorem.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
