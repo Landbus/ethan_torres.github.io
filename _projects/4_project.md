@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exploration in RL via Cluster Emergence 
-description: This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions. 
+title: Surprises in a Classic Boundary-Layer Problem
+description: This particular project, me and a group of students at NYU found an interest bifurcation that exists for a classic boundary value problem. The mathematics is quite simple but the finding is definitely nifty and worth checking out!
 img: assets/img/rl_exploration.png
 importance: 1
 category: work
