@@ -466,9 +466,9 @@ ninja.data = [{
           description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-exploration-in-rl-via-cluster-emergence",
-          title: 'Exploration in RL via Cluster Emergence',
-          description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
+            },},{id: "projects-surprises-in-a-classic-boundary-layer-problem",
+          title: 'Surprises in a Classic Boundary-Layer Problem',
+          description: "This particular project, me and a group of students at NYU found an interest bifurcation that exists for a classic boundary value problem. The mathematics is quite simple but the finding is definitely nifty and worth checking out!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-sentiment-analysis-via-statistical-learning-methods-and-deep-neural-networks",
