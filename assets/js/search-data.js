@@ -476,9 +476,9 @@ ninja.data = [{
           description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-multi-uav-control-with-extensions-to-dmarl",
+          title: 'Multi Uav Control with Extensions to DMARL',
+          description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
