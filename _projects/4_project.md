@@ -2,7 +2,7 @@
 layout: page
 title: Surprises in a Classic Boundary-Layer Problem
 description: This particular project, me and a group of students at NYU found an interest bifurcation that exists for a classic boundary value problem. The mathematics is quite simple but the finding is definitely nifty and worth checking out!
-img: assets/img/rl_exploration.png
+img: assets/img/bifurcation.png
 importance: 1
 category: work
 related_publications: true
