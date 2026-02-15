@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+## Paper (main)
+
 <iframe
   src="{{ '/assets/pdf/manifold_diffusion.pdf' | relative_url }}"
   width="100%"
@@ -15,5 +17,17 @@ related_publications: true
   style="border: none;">
 </iframe>
 
-If the PDF does not display in your browser,
-<a href="{{ '/assets/pdf/manifold_diffusion.pdf' | relative_url }}">open it directly</a>.
+[Open directly]({{ '/assets/pdf/manifold_diffusion.pdf' | relative_url }})
+
+---
+
+## Slides / Appendix / Second PDF
+
+<iframe
+  src="{{ '/assets/pdf/manifold_diffusion_pres.pdf' | relative_url }}"
+  width="100%"
+  height="900"
+  style="border: none;">
+</iframe>
+
+[Open directly]({{ '/assets/pdf/manifold_diffusion_pres.pdf' | relative_url }})
