@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Illinois, Urbana-Champaign</a>. ethanjt2@illinois.edu. Any sufficiently advanced technology is indistinguishable from magic.
 
 profile:
   align: right
