@@ -478,7 +478,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-multi-uav-control-with-extensions-to-dmarl",
           title: 'Multi Uav Control with Extensions to DMARL',
-          description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
+          description: "This particular project was a simplification/motivation that I utilized in my paper, which can be viewed in the publications section of this site, on DMARL for UAVs in obliviously adversarial environments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
