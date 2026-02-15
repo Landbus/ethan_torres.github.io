@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois, Urbana-Champaign</a>. ethanjt2@illinois.edu. Any sufficiently advanced technology is indistinguishable from magic.
+subtitle: <a href='#'>University of Illinois, Urbana-Champaign</a>. ethanjt2@illinois.edu. Any sufficiently advanced technology is indistinguishable from magic - Arthur C. Clarke (1962).
 
 profile:
   align: right
