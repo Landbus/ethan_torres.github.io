@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! I am currently a PhD student at UIUC in the Industrial Engineering department where I study applied mathematics under Dr. Richard B. Sowers. Most of my research focuses on Reinforcement Learning but I have some special interests in Algebraic Combinatorics and Dynamical Systems theory which tends to show itself in my research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also open to any possible collaborations in those fields and would love to start any correspondence with a researcher who feels they have a strong idea we can develop together! For any students visiting my page who would like to work with me in my lab or on my work, please reach out to me via my email, posted on this cite (ethanjt2@illinois.edu). I don't commonly work with students, but if you feel you can contribute to my work, feel free to reach out and we can discuss the possibilities.
+
+Feel free to look into my projects as well to see some work I have completed either for fun or for coursework that has produced novel results that weren't significant enough for publication (they were quite small) or I didn't have to time to fully pursue in terms of their research potential. 
+
+The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
