@@ -9,11 +9,11 @@ related_publications: true
 ---
 
 <iframe
-  src="{{ '/assets/pdf/subdominant_lyapunov.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/subdominant_exponent_paper.pdf' | relative_url }}"
   width="100%"
   height="900"
   style="border: none;">
 </iframe>
 
 If the PDF does not display in your browser,
-<a href="{{ '/assets/pdf/subdominant_lyapunov.pdf' | relative_url }}">open it directly</a>.
+<a href="{{ '/assets/pdf/subdominant_exponent_paper.pdf' | relative_url }}">open it directly</a>.
