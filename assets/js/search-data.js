@@ -466,9 +466,9 @@ ninja.data = [{
           description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-exploration-in-rl-via-cluster-emergence",
+          title: 'Exploration in RL via Cluster Emergence',
+          description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
