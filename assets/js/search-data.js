@@ -461,9 +461,9 @@ ninja.data = [{
           description: "This particular project developed a novel approach to learn a latent Symmetric Positive Definite (SPD) Riemannian metric directly from the data, and align it with the decoder’s pull-back geometry to promote isometry. I worked on this project with a group of other PhDs in a special topics course at UIUC.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-exploration-in-rl-via-cluster-emergence",
+          title: 'Exploration in RL via Cluster Emergence',
+          description: "This particular project, which I completed with a friend who is a PhD in the Information sciences department of UIUC, was formulated around analyzing sparse cluster regimes and translating them to the framework of Durrett. In doing so, one can impose certain bounds on exploration of large graphs under particular conditions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
