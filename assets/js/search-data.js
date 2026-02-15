@@ -456,9 +456,9 @@ ninja.data = [{
           description: "This particular project assessed the stability of SGD via Lyapunov spectrum and edge-of-stability control. In it, I proved a novel result from a toy problem that I hope to one day extend into an actual publication using the toolbox of Multiplicative Ergodic Theorem.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-manifold-aware-latent-diffusion-models",
+          title: 'Manifold-Aware Latent Diffusion Models',
+          description: "This particular project developed a novel approach to learn a latent Symmetric Positive Definite (SPD) Riemannian metric directly from the data, and align it with the decoder’s pull-back geometry to promote isometry. I worked on this project with a group of other PhDs in a special topics course at UIUC.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
