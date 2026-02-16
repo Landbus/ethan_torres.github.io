@@ -1,11 +1,8 @@
-# path to your CV (optional – change if you have one)
-cv_pdf: /assets/pdf/cv.pdf
+# CV
+cv_pdf: /assets/pdf/cv.pdf   # change filename if different
 
-# email
+# Email
 email: ethanjt2@illinois.edu
-
-# keep RSS unless you dislike it
-rss_icon: true
 
 # Google Scholar
 scholar_userid: OowW1SsAAAAJ
@@ -15,3 +12,6 @@ github_username: landbus
 
 # LinkedIn
 linkedin_username: ethan-torres-uiuc
+
+# hide RSS
+rss_icon: false
