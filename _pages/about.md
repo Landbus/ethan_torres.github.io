@@ -33,5 +33,3 @@ I am also open to any possible collaborations in those fields and would love to 
 Feel free to look into my projects as well to see some work I have completed either for fun or for coursework that has produced novel results that weren't significant enough for publication (they were quite small) or I didn't have to time to fully pursue in terms of their research potential. 
 
 The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
