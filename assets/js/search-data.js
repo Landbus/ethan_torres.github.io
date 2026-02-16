@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "projects-subdominant-lyapunov-exponents-predict-training-dynamics",
           title: 'Subdominant Lyapunov Exponents Predict Training Dynamics',
